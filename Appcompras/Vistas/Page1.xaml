@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Appcompras.Vistas.Page1"
+             BackgroundImageSource="Azul.jpg">
+    <StackLayout Padding="30,0,30,30">
+        <Image Source="logo.png" WidthRequest="200" HeightRequest="200" Margin="0,-10,0,0" />
+        <Label Text="Login" TextColor="#EC8305" FontSize="40" FontAttributes="Bold" HorizontalTextAlignment="Center" Margin="0,-40,0,20"/>
+        <Frame CornerRadius="10" BorderColor="#EC8305" BackgroundColor="#d7dbdd" Padding="10" Margin="0,10,0,10" HasShadow="True" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Image Source="correo.png" WidthRequest="24" HeightRequest="24" Margin="5,0" Grid.Column="0" VerticalOptions="Center"/>
+                <Entry x:Name="EmailEntry" Placeholder="Correo electrónico" Keyboard="Email" TextColor="Black" PlaceholderColor="Gray" Grid.Column="1"  />
+            </Grid>
+        </Frame>
+
+        <!-- Password Entry with Frame, Background Color, and Icon -->
+        <Frame CornerRadius="10" BorderColor="#EC8305" BackgroundColor="#d7dbdd" Padding="10" Margin="0,10,0,10" HasShadow="True">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Image Source="bloquear.png" WidthRequest="24" HeightRequest="24" Margin="5,0" Grid.Column="0" VerticalOptions="Center"/>
+                <Entry x:Name="PasswordEntry" Placeholder="Contraseña" IsPassword="True" TextColor="Black" PlaceholderColor="Gray" Grid.Column="1" AutomationProperties.IsInAccessibleTree="True"/>
+            </Grid>
+        </Frame>
+        <Grid Margin="0,30,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Iniciar sesión"  FontAttributes="Bold" CornerRadius="25" TextColor="White" BackgroundColor="#EC8305" Grid.Column="0" Clicked="OnLoginButtonClicked"/>
+            <Button Text="Registrarse"  FontAttributes="Bold" CornerRadius="25" TextColor="White" BackgroundColor="#EC8305" Grid.Column="1" Clicked="OnRegisterButtonClicked" />
+        </Grid>
+    </StackLayout>
+</ContentPage>

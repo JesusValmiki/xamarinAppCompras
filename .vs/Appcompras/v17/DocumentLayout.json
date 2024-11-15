@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\enviopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\enviopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\compras.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\compras.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\agregarcompra.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\agregarcompra.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\enviopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\enviopage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistamodelo\\vmagregarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistamodelo\\vmagregarcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\datos\\ddetallecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\datos\\ddetallecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistas\\compras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistas\\compras.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|c:\\users\\oscar\\onedrive\\documentos\\proyecto2\\appcompras\\appcompras\\vistamodelo\\vmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6A93D1-A292-400B-A63C-65CB3711E909}|Appcompras\\Appcompras.csproj|solutionrelative:appcompras\\vistamodelo\\vmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VMcompras.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\VistaModelo\\VMcompras.cs",
+              "RelativeDocumentMoniker": "Appcompras\\VistaModelo\\VMcompras.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\VistaModelo\\VMcompras.cs",
+              "RelativeToolTip": "Appcompras\\VistaModelo\\VMcompras.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:53:42.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Page1.xaml",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\Page1.xaml",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Page1.xaml",
+              "RelativeToolTip": "Appcompras\\Vistas\\Page1.xaml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T01:16:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Agregarcompra.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Agregarcompra.xaml",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\Agregarcompra.xaml",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Agregarcompra.xaml",
+              "RelativeToolTip": "Appcompras\\Vistas\\Agregarcompra.xaml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T01:12:48.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnvioPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\EnvioPage.xaml.cs",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\EnvioPage.xaml.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\EnvioPage.xaml.cs",
+              "RelativeToolTip": "Appcompras\\Vistas\\EnvioPage.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:57:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\EnvioPage.xaml",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\EnvioPage.xaml",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\EnvioPage.xaml",
+              "RelativeToolTip": "Appcompras\\Vistas\\EnvioPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T00:56:09.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compras.xaml",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Compras.xaml",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\Compras.xaml",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Compras.xaml",
+              "RelativeToolTip": "Appcompras\\Vistas\\Compras.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T01:58:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Compras.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Compras.xaml.cs",
+              "RelativeDocumentMoniker": "Appcompras\\Vistas\\Compras.xaml.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Vistas\\Compras.xaml.cs",
+              "RelativeToolTip": "Appcompras\\Vistas\\Compras.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:30:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ddetallecompras.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Datos\\Ddetallecompras.cs",
+              "RelativeDocumentMoniker": "Appcompras\\Datos\\Ddetallecompras.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\Datos\\Ddetallecompras.cs",
+              "RelativeToolTip": "Appcompras\\Datos\\Ddetallecompras.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAI4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:53:47.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VMagregarcompra.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\VistaModelo\\VMagregarcompra.cs",
+              "RelativeDocumentMoniker": "Appcompras\\VistaModelo\\VMagregarcompra.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Documentos\\Proyecto2\\Appcompras\\Appcompras\\VistaModelo\\VMagregarcompra.cs",
+              "RelativeToolTip": "Appcompras\\VistaModelo\\VMagregarcompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:13:45.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

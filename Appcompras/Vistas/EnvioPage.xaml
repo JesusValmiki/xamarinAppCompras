@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Appcompras.Vistas.EnvioPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+
+            <Label Text="Datos de Envio" TextColor="#EC8305" FontSize="40" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+
+            <!-- Campo Nombre -->
+            <Label Text="Nombre" FontSize="Medium"/>
+            <Entry x:Name="nombreEntry" Placeholder="Ingresa tu nombre completo"/>
+
+            <!-- Campo Dirección Calle -->
+            <Label Text="Dirección (Calle)" FontSize="Medium"/>
+            <Entry x:Name="direccionCalleEntry" Placeholder="Ingresa la calle de tu domicilio"/>
+
+            <!-- Campo Colonia -->
+            <Label Text="Colonia" FontSize="Medium"/>
+            <Entry x:Name="coloniaEntry" Placeholder="Ingresa tu colonia"/>
+
+            <!-- Campo Número -->
+            <Label Text="Número" FontSize="Medium"/>
+            <Entry x:Name="numeroEntry" Placeholder="Número de la casa o departamento" Keyboard="Numeric" TextChanged="numeroEntry_TextChanged"/>
+
+
+            <!-- Campo Teléfono -->
+            <Label Text="Celular" FontSize="Medium"/>
+            <Entry x:Name="telefonoEntry" Placeholder="Ingresa tu número de teléfono" Keyboard="Telephone" TextChanged="telefonoEntry_TextChanged"/>
+
+            <!-- Etiqueta para mostrar un mensaje si está vacío -->
+            <Label x:Name="errorLabel" TextColor="Red" IsVisible="False" />
+
+            <!-- Botón Enviar -->
+            <Button Text="Enviar" 
+                    Clicked="EnviarFormulario_Clicked"
+                    BackgroundColor="#EC8305"
+                    TextColor="White"
+                    Margin="0,20,0,0"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
